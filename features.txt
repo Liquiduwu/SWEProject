@@ -1,0 +1,1 @@
+https://account.termius.com/host-sharing#ip=34.65.219.25&port=22&username=hospitalmeow&id=16033463&os=debian
